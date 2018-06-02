@@ -150,6 +150,13 @@ hr{
   color: #282828;
 
 }
+.subtitle-card{
+	font-size: 11pt;
+	font-family: 'Work Sans', sans-serif;
+	text-align: right;
+	padding: 0px;
+	color: #9a9a9a;
+}
 
 .content-card{
   margin-top: 20px;
@@ -197,7 +204,7 @@ hr{
 }
 
 .about-text{
-    font-size: 16pt;
+    font-size: 12pt;
     font-family: 'Work Sans', sans-serif;
     color: #d1d1d1;
     text-align: left;
