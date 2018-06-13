@@ -86,9 +86,9 @@ hr{
   height: auto;
 }
 
-#ciac-img{
+#ekg-img{
   display: block;
-  width: 90%;
+  width: 85%;
   height: auto;
 }
 
@@ -186,8 +186,8 @@ hr{
   background-color: #900816;
 }
 
-.skyblue-card{
-  background-color: #89D2DC;
+.navy-card{
+  background-color: #111684;
 }
 
 .red-card{
@@ -281,8 +281,8 @@ hr{
   
 }
 
-.skill-skyblue{
-  border-color: #89D2DC !important;
+.skill-navy{
+  border-color: ##111684!important;
 }
 
 .skill-maroon{
